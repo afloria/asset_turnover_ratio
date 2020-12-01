@@ -1,6 +1,5 @@
 import java.util.*;
 class Main {
-    //System.out.println(cars);
   public static void main(String[] args) {
     ArrayList<Double> rev = new ArrayList<Double>();
       rev.add(102863.0);
